@@ -1,0 +1,32 @@
+{
+  "business": [
+    {
+      "id": 1,
+      "title": "businessA"
+    },
+    {
+      "id": 2,
+      "title": "businessB"
+    },
+    {
+      "id": 3,
+      "title": "businessC"
+    }
+  ],
+  "challenges": [
+    {
+      "id": 2,
+      "title": "Circle Challenge",
+      "businessId": 3,
+      "urlToImage": "https://www.decagono.com/img/circulo.png",
+      "challengeType": "individual"
+    },
+    {
+      "title": "Square Challenge",
+      "businessId": 1,
+      "urlToImage": "",
+      "challengeType": "team",
+      "id": 3
+    }
+  ]
+}
